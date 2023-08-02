@@ -117,6 +117,7 @@ body {
 	color: #fff;
 	background-color: #BEB45A;
 	border-radius: 0;
+	filter: contrast(1);
   }
   
   .nav-pills .nav-link {
@@ -212,7 +213,7 @@ body {
 	z-index: 1;
   }
   
-  .service__price p {
+  .service__price h4 {
 	font-size: 1.5rem;
   }
   
