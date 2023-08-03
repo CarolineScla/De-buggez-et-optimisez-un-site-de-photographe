@@ -273,6 +273,14 @@ body {
 	background-color: #BEB45A;
 	padding: .5em 1em;
   }
+
+  .contact-info {
+  position: relative;
+  z-index: 1;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 3%;
+  }
   
   /* Media queries pour la réactivité */
   @media all and (max-width: 1180px) {
